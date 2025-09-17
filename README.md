@@ -1,2 +1,2 @@
 # tensui.github.io
-<a href="test.html">Here</a>
+<a href="index.html">Here</a>
